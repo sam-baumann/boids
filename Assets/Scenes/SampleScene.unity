@@ -1054,15 +1054,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34efd671c13947a438ec6f17b6cfe95c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Sight: 1
+  Sight: 3
   Speed: 1
-  SeparationStrength: 1
-  AlignmentStrength: 1
-  CohesionStrength: 1
+  SeparationStrength: 0.34
+  AlignmentStrength: 0.46
+  CohesionStrength: 0.55
   maxSteerForce: 1
-  obstacleAvoidanceStrength: 1
+  obstacleAvoidanceStrength: 1.93
   sprite: {fileID: 21300000, guid: 8ea33b00dea9ebc4b9f181afdc2dad19, type: 3}
-  FlockSize: 20
+  FlockSize: 30
 --- !u!4 &1488073233
 Transform:
   m_ObjectHideFlags: 0
